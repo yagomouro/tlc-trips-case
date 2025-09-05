@@ -73,4 +73,7 @@ Next.js (chat + voz + export) → Flask API (classifica intent) → LLM/DB/S3
 
 ## Vídeo de demonstração
 
-![Video](../images/AIAgent.mp4)
+
+
+
+https://github.com/user-attachments/assets/c3eae939-ee7a-41ee-8403-c4c867713499
