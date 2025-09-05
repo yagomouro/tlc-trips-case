@@ -75,5 +75,9 @@ Next.js (chat + voz + export) → Flask API (classifica intent) → LLM/DB/S3
 
 
 
+https://github.com/user-attachments/assets/61b785c2-4c7d-4ba8-948e-fa35be8ab8fd
 
-https://github.com/user-attachments/assets/c3eae939-ee7a-41ee-8403-c4c867713499
+
+
+
+
