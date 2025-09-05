@@ -1,0 +1,15 @@
+aws-cdk-lib
+constructs
+python-dotenv
+pyspark
+boto3
+requests
+pandas
+pyarrow
+fastparquet
+ipykernel
+flask
+openai
+aws-wsgi
+flask-cors
+glue-utils
